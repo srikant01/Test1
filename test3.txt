@@ -1,3 +1,4 @@
 Remote changes 111111111111111111111111111111
 local changes added.
 remote changes 2
+local 2 changes
